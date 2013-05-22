@@ -11,4 +11,6 @@ Utilize BRD file in Eagle 5 to take a look at the board, make changes, and gener
 
 Utilize BOM file to order parts (Part Numbers included for digikey) to build your own or fix existing.
 
+Panelized with arduino copy paste. Over 6 inches, sadly, so its going to take an upgraded copy of eagle to edit :(
+
 See Haptic Tactor and Haptic Controller repository for programming and usage.
